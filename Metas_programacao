@@ -1,22 +1,30 @@
 1) Cadastrar clientes
 2) Logar clientes
-3) Implementar autenticação dois fatores
-4) Criar sistema de pagamento de contas (boleto)
-5) Criar o sistema de depósito
-6) Criar o sistema de saque
-7) Criar o sistema de Pix
-8) Criar o sistema de investimentos
-9) Criar sistema de orçamentos
-10) Criar sistema de recarga (de celular)
-11) Criar sistema de reservas
-12) Criar a loja de pontos
-13) Criar sistema de favoritar pessoas
-14) Criar o sistema de suporte ao cliente
-15) Criar o sistema do cartão
-16) Criar o sistema do perfil
-17) Criar o sistema de seguros e assistências
-18) Criar o sistema de saldos
-19) Criar o sistema de compra e venda de criptomoedas
-20) Criar o sistema dos comprovantes
-21) Criar o sistema de sessões em dispositivos
-22) Criar o sistema de segurança
+3) Criar sistema de notificações
+4) Criar o sistema do perfil
+5) Criar o sistema de favoritar pessoas
+6) Criar sistema de recarga de celular
+7) Criar sistema de lembretes financeiros
+8) Criar sistema de envio de comprovante por e-mail
+9) Criar o sistema de comprovantes
+10) Criar sistema de segurança (básico)
+11) Criar sistema de sessões em dispositivos
+12) Criar sistema de categorias de gastos
+13) Criar o sistema de saldos
+14) Criar sistema de transferência entre contas Monedas
+15) Criar o sistema de suporte ao cliente
+16) Criar sistema de mensagens entre cliente e suporte
+17) Criar o sistema de autenticação em dois fatores
+18) Criar o sistema de Pix
+19) Criar o sistema de saque
+20) Criar o sistema de depósito
+21) Criar o sistema de pagamento de boletos
+22) Criar sistema de orçamentos
+23) Criar o sistema do cartão
+24) Criar sistema de reservas
+25) Criar a loja de pontos
+26) Criar o sistema de seguros e assistências
+27) Criar sistema de metas de economia
+28) Criar o sistema de investimentos
+29) Criar painel administrativo
+30) Criar o sistema de compra e venda de criptomoedas
